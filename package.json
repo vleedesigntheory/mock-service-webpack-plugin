@@ -1,0 +1,30 @@
+{
+  "name": "mock-service-webpack-plugin",
+  "version": "alpha",
+  "description": "A Mock Service Based on Webpack 4/5",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeui/mock-service-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-mock",
+    "webpack-mock-service",
+    "mock",
+    "webpack-plugin",
+    "plugin"
+  ],
+  "author": "we452366",
+  "contributors": [
+    "veeui"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veeui/mock-service-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/veeui/mock-service-webpack-plugin#readme"
+}
