@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="assets/logo.png" alt="logo"></a></p>
+<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="./assets/logo.png" alt="logo"></a></p>
 
 # mock-service-webpack-plugin
 
@@ -6,7 +6,7 @@ A Mock Service Based on Webpack 4/5
 
 ## Architecture
 
-![mechanism](/assets/mechanism.png)
+![mechanism](./assets/mechanism.png)
 
 ## Installation
 
