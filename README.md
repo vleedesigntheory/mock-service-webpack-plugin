@@ -6,7 +6,7 @@ A Mock Service Based on Webpack 4/5
 
 ## Architecture
 
-![mechanism](assets/mechanism.png)
+![mechanism](/assets/mechanism.png)
 
 ## Installation
 
