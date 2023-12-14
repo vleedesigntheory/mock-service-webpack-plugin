@@ -8,6 +8,8 @@ A Mock Service Based on Webpack 4/5
 
 ![mechanism](./assets/mechanism.png)
 
+![ipc](./assets/ipc.png)
+
 ## Installation
 
 ```sh
