@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="/assets/logo.png" alt="logo"></a></p>
+<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="./assets/logo.png" alt="logo"></a></p>
 
 # mock-service-webpack-plugin
 
@@ -98,11 +98,15 @@ module.exports = {
 }
 ```
 
-## Video
+## Practice
 
 <video src="/assets/configuration.mp4" width="1920" height="1080">
 
+![configuration](/assets/configuration.gif)
+
 <video src="/assets/service.mp4" width="1920" height="1080">
+
+![service](/assets/service.gif)
 
 ## License
 
