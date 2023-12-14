@@ -8,6 +8,8 @@ A Mock Service Based on Webpack 4/5
 
 ![mechanism](./assets/mechanism.png)
 
+Use Inter-Process Communication in `Node.js` to handle HTTP Request between Webpack Dev Server and Mock Server:
+
 ![ipc](./assets/ipc.png)
 
 ## Installation
