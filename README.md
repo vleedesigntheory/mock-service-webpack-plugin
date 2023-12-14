@@ -98,16 +98,6 @@ module.exports = {
 }
 ```
 
-## Practice
-
-- Configuration
-
-![configuration](/assets/configuration.gif)
-
-- Service
-
-![service](/assets/service.gif)
-
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
