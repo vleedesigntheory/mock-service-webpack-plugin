@@ -1,6 +1,6 @@
 {
   "name": "mock-service-webpack-plugin",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "A Mock Service Based on Webpack 4/5",
   "main": "index.js",
   "scripts": {

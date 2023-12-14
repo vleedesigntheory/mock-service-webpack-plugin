@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="./assets/logo.png" alt="logo"></a></p>
+<p align="center"><a href="https://github.com/vleedesigntheory/mock-service-webpack-plugin" target="_blank" rel="noopener noreferrer"><img width="200" src="/assets/logo.png" alt="logo"></a></p>
 
 # mock-service-webpack-plugin
 
@@ -6,11 +6,11 @@ A Mock Service Based on Webpack 4/5
 
 ## Architecture
 
-![mechanism](./assets/mechanism.png)
+![mechanism](/assets/mechanism.png)
 
 Use Inter-Process Communication in `Node.js` to handle HTTP Request between Webpack Dev Server and Mock Server:
 
-![ipc](./assets/ipc.png)
+![ipc](/assets/ipc.png)
 
 ## Installation
 
@@ -97,6 +97,12 @@ module.exports = {
     }
 }
 ```
+
+## Video
+
+<video src="/assets/configuration.mp4" width="1920" height="1080">
+
+<video src="/assets/service.mp4" width="1920" height="1080">
 
 ## License
 

@@ -16,28 +16,28 @@ const routes = [
           component: () => import("@/views/Home.vue"),
           children: [
             {
-              path: '/home/competition',
-              name: 'Competition',
+              path: '/home/equipment',
+              name: 'Equipment',
               children: [
                 {
-                  path: '/home/competition/frontend',
-                  name: 'FrontEnd',
+                  path: '/home/equipment/management',
+                  name: 'Management',
                   children: [
                     {
-                      path: '/home/competition/frontend/html',
-                      name: 'HTML'
+                      path: '/home/equipment/management/cpe',
+                      name: 'CPE'
                     },
                     {
-                      path: '/home/competition/frontend/javascript',
-                      name: 'Javascript'
+                      path: '/home/equipment/management/hub',
+                      name: 'Hub'
                     },
                     {
-                      path: '/home/competition/frontend/css',
-                      name: 'CSS',
+                      path: '/home/equipment/management/switch',
+                      name: 'Switch',
                     },
                     {
-                      path: '/home/competition/frontend/engineering',
-                      name: 'Engineering'
+                      path: '/home/equipment/management/robot',
+                      name: 'Robot'
                     }
                   ]
                 }

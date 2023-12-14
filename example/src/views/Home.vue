@@ -27,7 +27,7 @@
 <script>
 import { Breadcrumb } from 'ant-design-vue';
 import Item from '@/components/Item';
-import { APIList, APINav, APISearch } from '@/api/list';
+import { APIList, APINav, APISearch, MockSearch } from '@/api/list';
 import { mapMutations } from 'vuex'
 
 export default {
@@ -119,7 +119,13 @@ export default {
           value: this.$store.state.searchValue
         }
       )
-      console.log('APISearch', res);
+      // Mock
+      const _res = await MockSearch(
+        {
+          value: this.$store.state.searchValue
+        }
+      )
+      console.log('APISearch', res, 'MockSearch', _res);
       if(res.success) {
         this.list = res.data.list;
         console.log('list.length', this.list.length);
