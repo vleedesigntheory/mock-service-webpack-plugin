@@ -100,11 +100,11 @@ module.exports = {
 
 ## Practice
 
-<video src="/assets/configuration.mp4" width="1920" height="1080">
+- Configuration
 
 ![configuration](/assets/configuration.gif)
 
-<video src="/assets/service.mp4" width="1920" height="1080">
+- Service
 
 ![service](/assets/service.gif)
 
